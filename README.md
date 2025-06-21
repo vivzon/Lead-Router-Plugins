@@ -7,6 +7,6 @@ Contact Form 7 Support - Send Contact Form 7 entries directly to Vivzon CRM usin
 Elementor Forms Integration - Supports Elementor Pro with field ID mapping for reliable CRM submissions.
 Custom Forms Ready - Add hooks in any PHP-based form to manually send leads to Vivzon Browser CRM.
 
-Step 1: Install LeadRouter via WordPress Admin.
-Step 2: Enter your Vivzon CRM Token in Settings → LeadRouter.
-Step 3: Use required form field IDs or names: name, email, phone.
+Step 1: Install LeadRouter via WordPress Admin. <br>
+Step 2: Enter your Vivzon CRM Token in Settings → LeadRouter. <br>
+Step 3: Use required form field IDs or names: name, email, phone. <br>
